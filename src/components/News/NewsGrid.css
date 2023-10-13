@@ -2,6 +2,7 @@
   width: 90%;
   gap: 16px;
   display: grid;
+  margin: auto;
   grid-template-areas: 
     "a1 a1 a1 a1"
     "a1 a1 a1 a1"
